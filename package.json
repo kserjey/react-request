@@ -73,7 +73,7 @@
   "dependencies": {
     "@babel/runtime": "^7.2.0",
     "hoist-non-react-statics": "^3.2.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6.2"
   }
 }
